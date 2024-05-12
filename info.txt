@@ -1,0 +1,8 @@
+SHOTS - 3
+MAKES - 1
+MISS - 2
+
+1 OF 1[probability] - 22.222%
+1 OF 3 - P(MAKES, SHOTS) * 2 = 66.66%
+1 OF 2 - 44.4444%
+0 OF 1 - 77.77%

@@ -1,0 +1,3 @@
+https://livescore-api.com/api-client/scores/history.json?competition_id=2&key=5IZQTyvLEE8wJC6v&secret=z0mZBWNFP4qPxI6Cq5skDY5iCePmQVSp
+
+
